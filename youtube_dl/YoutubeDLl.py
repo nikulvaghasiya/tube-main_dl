@@ -113,8 +113,8 @@ if compat_os_name == 'nt':
     import ctypes
 
 
-class YoutubeDL(object):
-    """YoutubeDL class.
+class YoutubeDLl(object):
+    """YoutubeDLl class.
 
     YoutubeDL objects are the ones responsible of downloading the
     actual video file and writing it to disk if the user has requested
